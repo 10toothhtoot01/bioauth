@@ -1,5 +1,5 @@
 
-Disclaimer: This is a vibecoded project, although took very very long time, still, you should know!!just wanted to share project, if its useful to somebody
+Disclaimer: This is a vibecoded project, although took very very long time, still, you should know!!just wanted to share project, if its useful to somebody,use at your own risk 
 
 # Hiya
 
